@@ -1,6 +1,9 @@
 # Fusion of LiDAR data from two LiDAR sensors using ROS
 
-This repository contains a ROS package with a C++ node to fuse LiDAR data from two LiDAR sensors along with a LeGO-LOAM submodule modified for using the package. The node takes in point cloud from two Velodyne VLP-16 LiDAR sensor and merges it to a single point cloud eliminating any blind spots in the point cloud.
+This repository contains a ROS package with a C++ node to fuse LiDAR data from two LiDAR sensors along with a LeGO-LOAM submodule modified for using the package. The node takes in point clouds from two Velodyne VLP-16 LiDAR sensors and merges them to form a single point cloud. Merging point clouds from multiple lidars eliminates the blindspots caused when one LiDAR sensor blocks the laser pulses from another LiDAR sensor.
+
+THe images of the blindspots are shown below.
+
 
 
 ## Dependency
