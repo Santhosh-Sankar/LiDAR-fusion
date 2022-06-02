@@ -4,6 +4,19 @@ This repository contains a ROS package with a C++ node to fuse LiDAR data from t
 
 THe images of the blindspots are shown below.
 
+<p align='center'>
+    <img src="/images/ns1_1.png" alt="drawing" width="600"/>
+</p>
+
+<p align='left'>
+    <img src="/images/ns1_2.png" alt="drawing" width="600"/>
+</p>
+
+<p align='right'>
+    <img src="/images/ns1_3.png" alt="drawing" width="600"/>
+</p>
+
+
 
 
 ## Dependency
