@@ -34,7 +34,22 @@ The images of the blindspots recorded by two Velodyne VLP-16 LiDAR sensors mount
     <img src="/images/ns2_3.png" alt="drawing" width="600"/>
 </p>
 
+The images of the blindspots after merging the point cloud is shown below.
 
+<p align='center'>
+    <img src="/images/ns1_merged_1.png" alt="drawing" width="600"/>
+</p>
+
+<p align='center'>
+    <img src="/images/ns1_merged_2.png" alt="drawing" width="600"/>
+
+<p align='center'>
+    <img src="/images/ns2_merged_1.png" alt="drawing" width="600"/>
+</p>
+
+<p align='center'>
+    <img src="/images/ns2_merged_2.png" alt="drawing" width="600"/>
+    
 
 ## Dependencies
 
