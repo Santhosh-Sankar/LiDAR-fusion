@@ -1,0 +1,4 @@
+[submodule "LeGO-LOAM"]
+	path = LeGO-LOAM
+	url = https://github.com/Santhosh-Sankar/LeGO-LOAM.git
+	branch = lidar-fusion
