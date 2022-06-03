@@ -2,9 +2,9 @@
 
 This repository contains a ROS package with a C++ node to fuse LiDAR data from two LiDAR sensors along with a LeGO-LOAM submodule modified for using the package. The node takes in point clouds from two LiDAR sensors and merges them to form a single point cloud. Merging point clouds from multiple lidars eliminates the blindspots caused when one LiDAR sensor blocks the laser pulses from another LiDAR sensor. 
 
-LeGO-LOAM is used to visualize the point clouds and generate a 3D point cloud map of the path traversed by the car.
+LeGO-LOAM is used to visualize the point clouds and generate a 3D point cloud map of the path traversed by the car. The YouTube video of the 3D cloud map generated is here : https://youtu.be/oCrPttN3Xsw
 
-###Blindspots
+### Blindspots
 
 The images of the blindspots recorded by two Velodyne VLP-16 LiDAR sensors mounted on the left and the right of 2016 Linclon MKZ car are shown below.
 
